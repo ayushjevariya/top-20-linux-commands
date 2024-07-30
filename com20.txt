@@ -1,0 +1,20 @@
+ls - List directory contents
+cd - Change directory
+pwd - Print working directory
+cp - Copy files or directories
+mv - Move or rename files or directories
+rm - Remove files or directories
+touch - Create an empty file or update the timestamp
+mkdir - Create directories
+rmdir - Remove empty directories
+cat - Concatenate and display file content
+echo - Display a line of text
+man - Display the user manual for a command
+chmod - Change file permissions
+chown - Change file owner and group
+grep - Search text using patterns
+find - Search for files in a directory hierarchy
+tar - Archive files
+nano - Simple text editor
+ps - Report process status
+top - Display tasks and system resource usage
